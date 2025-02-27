@@ -1,5 +1,3 @@
-## 🌐 My Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1195819082885382204)](https://discord.com/users/1195819082885382204)
 
 # 💻 Tech Stack:
 &nbsp;&nbsp;
