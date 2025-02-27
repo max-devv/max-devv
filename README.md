@@ -1,6 +1,6 @@
-
 ## 🌐 My Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1195819082885382204)](https://discord.com/users/1195819082885382204)
+
 # 💻 Tech Stack:
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
@@ -14,6 +14,12 @@
 ![img_php](./img/php.svg)
 &nbsp;&nbsp;
 ![img_mysql](./img/mysql.svg)
+&nbsp;&nbsp;
+![img_symfony](./img/symfony.svg)
+&nbsp;&nbsp;
+![img_react](./img/react.svg)
+&nbsp;&nbsp;
+![img_postgresql](./img/postgresql.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=max-devv&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
