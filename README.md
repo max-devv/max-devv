@@ -11,8 +11,6 @@
 ![img_php](./img/php.svg)
 &nbsp;&nbsp;
 ![img_mysql](./img/mysql.svg)
-&nbsp;&nbsp;
-![img_react](./img/react.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=max-devv&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
